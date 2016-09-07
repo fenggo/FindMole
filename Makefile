@@ -42,6 +42,3 @@ FindMole: $(OBJ)
 .PHONY : clean
 clean:
 	rm -f *.o *.mod
-
-    master 
-
