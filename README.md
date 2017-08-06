@@ -2,7 +2,7 @@
 Find molecular structrues or fragments in the energetical matrial trajectories, mainly suport the lammps software
 
 
-To use "findmole", you need cite my paper:
+To use "FindMole", you need cite my paper:
     "F. Guo et al., J. Phys. Chem. A 2012, 116, 3514−3520"
 
 
@@ -15,6 +15,7 @@ equ.lammpstrj
  * Coordinate Format:
  * 1. Lammmpstrj
  * 2. xyz
+ 
 1
  * In put time interval between trajectory frames (ps):
 5.0
@@ -40,6 +41,7 @@ Totally read in 10368 N   atoms...
  2. analysis MS from one of the trajectorys
  3. analysis the Mean squared displacement of the trajectorys
  4. compute the Mean lattice parameters of the system
+ 
 2
  * please input the step number of the trajectorys to analysis:
 100000
