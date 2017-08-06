@@ -11,14 +11,18 @@ The running windows are like this:
 
 
  * Input in file name:
+ 
 equ.lammpstrj
  * Coordinate Format:
  * 1. Lammmpstrj
  * 2. xyz
  
 1
+
  * In put time interval between trajectory frames (ps):
+ 
 5.0
+
 **********************************************************************
       Cell parameters (Angstroms/Degrees):
 **********************************************************************
@@ -43,7 +47,10 @@ Totally read in 10368 N   atoms...
  4. compute the Mean lattice parameters of the system
  
 2
+
  * please input the step number of the trajectorys to analysis:
-100000
+ 
+100000 
+
  * The last frame!
  * exit now!
